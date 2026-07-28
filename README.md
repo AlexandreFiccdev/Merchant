@@ -28,12 +28,12 @@ Se preferir via terminal:
 
 ```bash
 # Windows — no PowerShell
-Expand-Archive Teste_Pratico_merchant-main.zip -DestinationPath .
-cd Teste_Pratico_merchant-main
+Expand-Archive Merchant-main.zip -DestinationPath .
+cd Merchant-main
 
 # Linux/Mac
-unzip Teste_Pratico_merchant-main.zip
-cd Teste_Pratico_merchant-main
+unzip Merchant-main.zip
+cd Merchant-main
 ```
 
 Os comandos das seções seguintes usam `teste_pratico/` como referência à raiz do projeto — se a
